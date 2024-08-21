@@ -44,7 +44,7 @@ __"De Moivres" Team Capitan__ 👨‍💻
 
 * Leaders of Digital Transformation, 2024 Samolet tack «Discount entity recognition in phone calls». 11th place
 
-* Ozon E-Cup: Markenplace Item Matching. ?? place
+* Ozon E-Cup: Marketplace Item Matching. ?? place
 
 ### Education
 * Financial University Under The Government of the Russian Federation (Bachelor's in Applied Mathematics). 2022-today

@@ -33,6 +33,9 @@
 </table>
 
 ### Competitions
+
+__"De Moivres" Team Capitan__ 👨‍💻
+
 * Russian art: ML challenge, 4th place
 
 * Alpha x FinU Hack: CLTV model development, 3rd place

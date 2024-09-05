@@ -10,6 +10,7 @@
         <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png"/>
         <img height="50" src="https://avatars.githubusercontent.com/u/57251745?s=200&v=4"/>
         <img height="50" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"/>
+        <img height="50" src="https://unsloth.ai/cgi/image/unsloth_logo_no_shadow_KgfOV6keeBZnffQsKUny3.png?width=96&quality=80&format=auto"/>
         <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU"/>
         <img height="50" src="https://lancedb.github.io/lancedb/assets/langchain.png"/>
         </td>

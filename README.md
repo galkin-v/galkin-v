@@ -37,15 +37,15 @@
 
 __"De Moivres" Team Capitan__ 👨‍💻
 
-* Russian art: ML challenge, 4th place
-
 * Alpha x FinU Hack: CLTV model development, 3rd place
+
+* Russian art: ML challenge, 4th place
 
 * МТС «Clear system: make difficult look easy»
 
-* Leaders of Digital Transformation, 2024 Samolet tack «Discount entity recognition in phone calls». 11th place
+* Leaders of Digital Transformation, 2024 Samolet tack «Discount entity recognition in phone calls», 11th place
 
-* Ozon E-Cup: Marketplace Item Matching. ?? place
+* Ozon E-Cup: Marketplace Item Matching, place 24/110
 
 ### Education
 * Financial University Under The Government of the Russian Federation (Bachelor's in Applied Mathematics). 2022-today

@@ -1,5 +1,5 @@
-## Data Scientist / ML Engineer
-**Interests**: LLMs, Model Agents, Transformers, RAG, Computer Vision, Classical ML, Statistical Inference
+## Data Scientist / ML Engineer / NLP + CV Engineer
+**Interests**: Transformers, LLMs, Model Agents, RAG, Computer Vision, Classical ML, Statistical Inference
 
 <h3 align="left">Technology Stack</h3>
 <table>
